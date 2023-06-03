@@ -1,0 +1,16 @@
+{
+  "name": "@alt-jero/status-line",
+  "version": "1.0.0",
+  "description": "A quick and simple way to write status updates at the bottom of the CLI display without logging all status updates to the line-buffer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./benchmark.js"
+  },
+  "keywords": [
+    "status",
+    "CLI",
+    "logging"
+  ],
+  "author": "Jeremy Rumble",
+  "license": "SEE LICENSE IN LICENSE.MIT.md"
+}
